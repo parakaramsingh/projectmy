@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-color: darkturquoise;
+}
+
+img {
+    height: 200px;
+    width: 250px;
+}
+span{
+	color: aliceblue;
+	padding-left:80px;
+	padding-right:80px;
+}
+.image-section{
+    display: flex;
+    justify-content: center;
+}
+.section-style{
+    margin-right: 25px;
+    margin-left: 25px;
+}
